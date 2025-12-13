@@ -1,0 +1,14 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "heyyyyyy",
+  "homepage": "https://github.com/sigmaboyihate/neo-index",
+  "license": "MIT",
+  "sources": {
+    "darwin-arm64": {
+      "url": "https://github.com/sigmaboyihate/neo-index/releases/download/hello-1.0.0/hello-1.0.0-darwin-arm64.tar.gz",
+      "sha256": "0ef0ebc68acfe8c51d751bfec9810250e35d588683dfc61be427a08261239e7e"
+    }
+  },
+  "bin": ["hello"]
+}
